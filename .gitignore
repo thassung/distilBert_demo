@@ -2,3 +2,5 @@ distilBERT og.ipynb
 distilBERT res.ipynb
 distilBERT puji.ipynb
 *.pt
+
+!Even layer model.pt
