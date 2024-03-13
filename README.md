@@ -52,7 +52,7 @@
 
 ## Evaluation
 
-The distilBERT models are initialized with different layer selection from the pretrained model. In this ipynb, four initializing methods are used and the performance of each model after training are as following.
+The distilBERT models are initialized with different layer selection from the pretrained model. In the [ipynb](https://github.com/thassung/distilBert_demo/blob/main/distilBERT.ipynb), four initializing methods are used and the performance of each model after training are as following.
 
 | Student Layer | Training Loss | Validation Loss | Validation Accuracy |
 |---------------|---------------|-----------------|---------------------|
